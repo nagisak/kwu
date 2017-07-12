@@ -11,7 +11,7 @@ from sklearn.metrics import confusion_matrix
 
 
 # データの読み込み
-mr = pd.read_csv('breastcancer2.csv')
+mr = pd.read_csv('breastcancer.csv')
 
 #用いる特徴量を設定する
 #*****全ての特徴量を用いた時*****
