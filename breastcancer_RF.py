@@ -11,7 +11,7 @@ from sklearn.metrics import confusion_matrix
 
 
 # データの読み込み
-mr = pd.read_csv("breastcancer2.csv")#, header=None)
+mr = pd.read_csv("breastcancer.csv")#, header=None)
 #print(mr)
 #exit
 
